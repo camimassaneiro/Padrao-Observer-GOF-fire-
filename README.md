@@ -13,3 +13,7 @@ Aplicabilidade - Use o padrão Observer quando:
 
 ### Estrutura
 ![Estrutura Observer](https://github.com/camimassaneiro/Padrao-Observer/blob/master/Observer.PNG)
+
+Referência:
+GAMMA, E. et al. Padrões de projeto: soluções reutilizáveis de software orientado a objetos.
+Porto Alegre: Bookman, 2000. 
